@@ -1,2 +1,2 @@
-3.times {print "Hello!"}
-3.times {put "Hello!"}
+3.times { print "Hello!" }
+3.times { puts "Hello!" }
