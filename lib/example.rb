@@ -8,4 +8,4 @@ def yewon
   puts phrase
 end
 
-Yewon
+yewon
