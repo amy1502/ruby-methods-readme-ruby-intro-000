@@ -37,5 +37,3 @@ def Yewon
 end
 
 Yewon
-
-
