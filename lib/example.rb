@@ -1,6 +1,6 @@
 
 
-def Yewon
+def yewon
   phrase = "pretty"
   puts phrase
   puts phrase
